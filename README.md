@@ -1,2 +1,3 @@
 # hello-world
-This is a description, very cool and epic
+
+Hello, I am Ryan. That is my name and this is a description and I am writing it
